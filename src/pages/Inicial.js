@@ -23,6 +23,9 @@ export default function Profile(){
             </View>
             {/* comentario  adicionar*/}
             {/* comentario  adicionar*/}
+            {/* comentario  adicionar*/}
+            {/* comentario  adicionar*/}
+            {/* comentario  adicionar*/}
             <View style={styles.post}>
                 <Post imgPost={require('../../assets/img/meu_niver.jpg')}
                     titulo='Meu ANiversario'
