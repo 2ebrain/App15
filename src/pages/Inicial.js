@@ -21,6 +21,7 @@ export default function Profile(){
                             tamanho='100%'/>
                 </View>
             </View>
+            {/* comentario */}
             <View style={styles.post}>
                 <Post imgPost={require('../../assets/img/meu_niver.jpg')}
                     titulo='Meu ANiversario'
